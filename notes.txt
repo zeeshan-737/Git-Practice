@@ -1,0 +1,13 @@
+Git Practice Notes
+
+1. Git tracks changes.
+2. Files can be staged before committing.
+3. Commits save snapshots of changes.
+4. GitHub can store Git repositories remotely.
+This is my updated Git practice note.
+Git tracks changes.
+Git tracks changes.
+Git tracks changes 2.
+Git tracks changes 3.
+new changes
+hi i learning git
