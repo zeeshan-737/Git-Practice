@@ -1,0 +1,12 @@
+Development Branch Notes
+
+This file is used to practice Git development workflows.
+
+Tasks completed:
+- Created a development branch
+- Added a new development file
+- Practiced staging and committing changes
+- Practiced pushing changes to GitHub
+
+Current focus:
+Learning Git branches, commits, stash, merge, and remote repository management.
