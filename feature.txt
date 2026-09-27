@@ -1,0 +1,10 @@
+Feature: User Login
+
+This feature adds a basic user login functionality.
+
+Requirements:
+- User should enter a valid username.
+- User should enter a valid password.
+- System should authenticate the user.
+- Successful login should display a welcome message.
+- Invalid credentials should display an error message.
